@@ -1,0 +1,6 @@
+{
+  "name": "Sikshyaa",
+  "description": "An AI-powered educational super app for study materials, MCQ practice, mock exams, and customized learning recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
